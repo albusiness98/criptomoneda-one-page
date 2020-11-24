@@ -13,7 +13,7 @@ body{
 	height: 110px;
 	background-color:#000;
 	color:white;
-	line-height: 150px;
+	line-height: 110px;
        	position:fixed;
         top:0
 }
@@ -59,8 +59,8 @@ body{
 
 #cabecera img{
 	height: 220px;
-	margin-top: 55px;
-	margin-left: 25px;
+	margin-top: 75px;
+	margin-left: 45px;
 }
 
 #contactos{
