@@ -152,6 +152,7 @@ body{
 
 #dogecoin img{
 	width: 25%;
+	text-align: center;
 	display: block;
 	float: left;
 	padding-top: 3%;
